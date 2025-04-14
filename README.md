@@ -101,14 +101,6 @@ This project demonstrates how machine learning can uncover meaningful customer s
 
 ---
 
-## 📁 Files Included
-- `Custimer_Segmentation_Analysis.ipynb` – Full analysis notebook with code and plots
-- `Custimer_Segmentation_Analysis.pdf` – Final project report
-- `report.docx` – Clean version of the report for offline editing
-- `README.md` – This summary file
-
----
-
 ## 💡 Future Enhancements
 - Incorporate **time-based features** (recency, frequency)
 - Try advanced segmentation (e.g., Hierarchical Clustering, RFM analysis)
