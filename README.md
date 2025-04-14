@@ -56,37 +56,21 @@ This project focuses on segmenting retail customers based on their demographics,
 
 ## 📌 4. Cluster Insights & Recommendations
 
-### KMeans Segments:
-- **Cluster 0** – Promo-Loving Power Shoppers  
-  High-spending male shoppers who actively use promotions  
-  💡 Strategy: Personalized promo codes, loyalty-based discounts
+The clustering revealed four distinct customer types:
 
-- **Cluster 1** – Premium Female Shoppers  
-  Brand-driven customers who spend steadily without promotions  
-  💡 Strategy: Offer exclusive access, quality-focused content
+- **Promo-driven shoppers**  
+  Respond well to discounts; ideal for flash deals, personalized offers, and loyalty programs
 
-- **Cluster 2** – Budget-Conscious Loyal Buyers  
-  Low-spend, promo-reliant frequent shoppers  
-  💡 Strategy: Referral discounts, bundle deals, affordability messaging
+- **Premium buyers**  
+  Brand-loyal customers (mostly female) who value quality; best engaged through exclusivity and early access
 
-- **Cluster 3** – Balanced Buyers (No Promo)  
-  Moderate male spenders, steady non-promo behavior  
-  💡 Strategy: Curated seasonal campaigns, personalized recommendations
+- **Budget-conscious frequent shoppers**  
+  Lower spend per order but highly engaged; suited for bundles, referral incentives, and affordable campaigns
 
----
+- **Consistent non-promo spenders**  
+  Steady, promotion-agnostic buyers; respond well to seasonal collections and personalized recommendations
 
-### DBSCAN Segments:
-- **Cluster 0** – Promo-Savvy Loyal Buyers  
-  Largest group, moderate spenders using promos regularly  
-  💡 Strategy: Flash deals, retention-based promo campaigns
-
-- **Cluster 1** – Moderate Non-Promo Shoppers  
-  Consistent male buyers not driven by promotions  
-  💡 Strategy: Style-based bundles, seasonal cross-sells
-
-- **Cluster 2** – Premium Female Buyers  
-  Quality-focused, non-promo female shoppers  
-  💡 Strategy: VIP perks, early access, and brand storytelling
+These segments enable targeted marketing strategies that improve retention and drive growth.
 
 ---
 
